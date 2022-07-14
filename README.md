@@ -66,7 +66,7 @@ MySQLへ接続(ADODB使用)し、ExcelVBAからデータベースを操作でき
 
 markdownを使い、コーディング規約、命名規則等を作成しました。
 
-[コーディング規約](styleguide\README.md)
+[コーディング規約](styleguide/README.md)
 
 ### ER図・ユースケース
 

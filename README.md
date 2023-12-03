@@ -14,13 +14,10 @@
 
 ※ 現在、公開停止中
 
-<img src="images/website/01-home.png" width="300px">
-
-<img src="images/website/02-terms-of-service.png" width="300px">
-
-<img src="images/website/03-release.png" width="300px">
-
-<img src="images/website/04-post.png" width="300px">
+|   | |
+ | ---- |----|
+ | <img src="images/website/01-home.png" width="300px"> |<img src="images/website/02-terms-of-service.png" width="300px">|
+  |<img src="images/website/03-release.png" width="300px">|<img src="images/website/04-post.png" width="300px">|
 
 ---
 

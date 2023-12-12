@@ -8,16 +8,25 @@
 
 所得拡大促進税制計算エクセルソフトは、法人税を税額控除できる制度としてメジャーである 「所得拡大促進税制」 の計算を、簡単に・スピーディーに行うことができる本格的なエクセルマクロです。
 
+(開発言語: Excel VBA)
+
 ---
 
 ## ウェブサイト(LP)
 
 ※ 現在、公開停止中
 
-|   | |
- | ---- |----|
- | <img src="images/website/01-home.png" width="300px"> |<img src="images/website/02-terms-of-service.png" width="300px">|
-  |<img src="images/website/03-release.png" width="300px">|<img src="images/website/04-post.png" width="300px">|
+| <img src="images/website/01-home.png" width="300px">    | <img src="images/website/02-terms-of-service.png" width="300px"> |
+| ------------------------------------------------------- | ---------------------------------------------------------------- |
+| <img src="images/website/03-release.png" width="300px"> | <img src="images/website/04-post.png" width="300px">             |
+
+---
+
+## コーディング規約等
+
+[Style guides in 所得拡大促進税制計算エクセルソフト](styleguide/README.md)
+
+markdown を用いて、「コーディング規約」や「命名規則」等を作成しました。
 
 ---
 
@@ -74,22 +83,6 @@ MySQL へ接続(ADODB 使用)し、ExcelVBA からデータベースを操作で
 
 ---
 
-## その他
-
-### コーディング規約等
-
-markdown を使い、コーディング規約、命名規則等を作成しました。
-
-[コーディング規約](styleguide/README.md)
-
----
-
 ## 著作権
 
 全て Kawaichi0228 に帰属する。
-
----
-
-## 公式サイト
-
-※ 現在、公開停止中

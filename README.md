@@ -8,7 +8,7 @@
 
 所得拡大促進税制計算エクセルソフトは、法人税を税額控除できる制度としてメジャーである 「所得拡大促進税制」 の計算を、簡単に・スピーディーに行うことができる本格的なエクセルマクロです。
 
-(開発言語: Excel VBA)
+(開発言語: Excel VBA, MySQL 実ステップ数: 5,680)
 
 ---
 
@@ -23,6 +23,9 @@
 ---
 
 ## コーディング規約等
+
+<img src="images/styleguides1.png" width="300px"> 
+<img src="images/styleguides2to3.png" width="300px">
 
 [Style guides in 所得拡大促進税制計算エクセルソフト](styleguide/README.md)
 

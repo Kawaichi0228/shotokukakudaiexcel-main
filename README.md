@@ -22,6 +22,12 @@
 
 ---
 
+## 技術情報等
+
+https://kawaichi0228.com/product/shotoku
+
+---
+
 ## コーディング規約等
 
 <img src="images/styleguides1.png" width="300px"> 
